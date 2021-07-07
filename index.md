@@ -13,4 +13,4 @@ The CPS2RL, led by [Dr. Monowar Hasan](http://monowarhasan.info/){:target="_blan
 * Security and resource management of vehicular communication networks
 * Real-time machine learning for smart manufacturing systems
 
-**Note:** this website is currently under development and will be updated soon. For details of the current projects and related publication, please visit Dr. Hasan's academic [webpage](http://monowarhasan.info/){:target="_blank"}.
+**Note:** This website is currently under development and will be updated soon. For details of the current projects and related publications, please visit Dr. Hasan's academic [webpage](http://monowarhasan.info/){:target="_blank"}.
